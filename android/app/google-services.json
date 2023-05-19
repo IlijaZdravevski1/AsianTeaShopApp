@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "753462978655",
+    "project_id": "asiantea-40376",
+    "storage_bucket": "asiantea-40376.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753462978655:android:94516894fdd759db3b13ea",
+        "android_client_info": {
+          "package_name": "com.example.AsianTea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753462978655-e41uhvt6753n8vosue10f719lf1cdq43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi0zxiScgB8tdzrnA38VfeuH7xFA4t8ww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753462978655-e41uhvt6753n8vosue10f719lf1cdq43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
