@@ -59,7 +59,7 @@ class _InfoState extends State<InfoScreen> {
                 SizedBox(height: 40),
                  // QrImage(
                  //   data:
-                 //   "https://yourcoffeeandtea.com/different-types-of-coffee/?fbclid=IwAR0tVe1EJTRCvCgdz7DPp-oCbHTkufNFVCqrgFlaiTFbi0ZjTw69-cB2BjI",
+                 //   "https://thechineseteashop.com/",
                  //   size: 250,
                  //   gapless: true,
                  //   version: QrVersions.auto,
